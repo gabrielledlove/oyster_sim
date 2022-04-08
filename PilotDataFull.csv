@@ -1,0 +1,93 @@
+﻿tray_id,substrate,date_placed,date_checked,location,structure,density,treatment,oysters_start,live,dead,total,ret_per,loose,notes
+P1,foam,23-10-2019,30-10-2019,SHK,S,M,MDS,48,NA,NA,27,,19,height varied tray; dead shell
+P2,foam,23-10-2019,30-10-2019,SHK,U,M,MDU,48,NA,NA,11,,30,height varied tray; dead shell
+LF1,foam,23-10-2019,30-10-2019,4CBar1,S,L,LDS,7,2,0,2,,7,3 loose dead
+LF1,foam,23-10-2019,30-10-2019,4CBar1,U,L,LDU,7,3,0,3,,7,one dead loose box looks smashed by crab
+LF1,foam,23-10-2019,5/11/2019,4CBar1,S,L,LDS,7,0,0,0,,9,2 loose dead
+LF1,foam,23-10-2019,5/11/2019,4CBar1,U,L,LDU,7,0,0,0,,9,most foam in all trays checked this date had fallen apart or was lost
+MF1,foam,23-10-2019,30-10-2019,4CBar1,S,M,MDS,23,14,1,15,,3,
+MF1,foam,23-10-2019,30-10-2019,4CBar1,U,M,MDU,23,11,1,12,,3,
+MF1,foam,23-10-2019,5/11/2019,4CBar1,S,M,MDS,23,1,0,1,,45,6 loose dead
+MF1,foam,23-10-2019,5/11/2019,4CBar1,U,M,MDU,23,0,0,0,,45,
+HF1,foam,23-10-2019,30-10-2019,4CBar1,S,H,HDS,40,28,10,38,,5,this side more exposed than U
+HF1,foam,23-10-2019,30-10-2019,4CBar1,U,H,HDU,40,32,2,34,,5,live M. corona in tray
+HF1,foam,23-10-2019,5/11/2019,4CBar1,S,H,HDS,40,10,5,15,,59,7 loose dead
+HF1,foam,23-10-2019,5/11/2019,4CBar1,U,H,HDU,40,0,0,0,,59,live M. corona in tray
+LD1,foam,30-10-2019,5/11/2019,4CBar2,S,L,LDS,7,3,0,3,,9,tray had raised while out
+LD1,foam,30-10-2019,5/11/2019,4CBar2,U,L,LDU,7,1,0,1,,9,
+LD2,foam,30-10-2019,5/11/2019,4CBar2,S,L,LDS,7,1,0,1,,12,comb jelly in tray
+LD2,foam,30-10-2019,5/11/2019,4CBar2,U,L,LDU,7,1,0,1,,12,
+MD,foam,30-10-2019,5/11/2019,4CBar2,S,M,MDS,23,12,0,12,,32,
+MD,foam,30-10-2019,5/11/2019,4CBar2,U,M,MDU,23,1,1,2,,32,
+HD1,foam,30-10-2019,5/11/2019,4CBar2,S,H,HDS,40,8,0,8,,55,"19 more were ""in foam"" but had washed there, weren't placed as S oysters by me; not included in ""in tray"" count"
+HD1,foam,30-10-2019,5/11/2019,4CBar2,U,H,HDU,40,0,0,0,,55,
+HD2,foam,30-10-2019,5/11/2019,4CBar2,S,H,HDS,40,1,0,1,,60,2 loose dead
+HD2,foam,30-10-2019,5/11/2019,4CBar2,U,H,HDU,40,15,0,15,,60,1 loose dead
+MD1,treated_foam,5/11/2019,21-11-2019,4CBar1,S,M,MDS,13,11,2,13,,0,foam coated with ModPodge
+MD1,treated_foam,5/11/2019,21-11-2019,4CBar1,U,M,MDU,12,8,3,11,,0,
+MD1,treated_foam,5/11/2019,21-11-2019,4CBar1,S,M,MDS,12,9,2,11,,0,plastic spikes through foam sides
+MD1,treated_foam,5/11/2019,21-11-2019,4CBar1,U,M,MDU,13,9,2,11,,0,
+MD2,treated_foam,5/11/2019,21-11-2019,4CBar1,S,M,MDS,12,10,2,12,,3,spray painted foam
+MD2,treated_foam,5/11/2019,21-11-2019,4CBar1,U,M,MDU,13,20,1,NA,,3,U oysters from this and next side mixed between treatments - numbers are for both together
+MD2,foam,5/11/2019,21-11-2019,4CBar1,S,M,MDS,12,8,2,10,,3,no wire through foam
+MD2,foam,5/11/2019,21-11-2019,4CBar1,U,M,MDU,13,20,1,NA,,3,
+TM1,mat,21-11-2019,4/12/2019,4CBar1,S,H,HDS,45,45,0,45,1,1,TreadMaster mat
+TM1,mat,21-11-2019,4/12/2019,4CBar1,U,H,HDU,45,43,1,44,0.977777778,1,
+MFT,mat,21-11-2019,4/12/2019,4CBar1,S,H,HDS,45,42,0,42,0.933333333,3,MatForThat mat
+MFT,mat,21-11-2019,4/12/2019,4CBar1,U,H,HDU,45,45,0,45,1,3,
+TM2,mat,21-11-2019,4/12/2019,4CBar1,S,H,HDS,45,39,1,40,0.888888889,3,TreadMaster mat
+TM2,mat,21-11-2019,4/12/2019,4CBar1,U,H,HDU,45,43,2,45,1,3,
+TT1,mat,4/12/2019,18-12-2019,4CBar1,S,H,HDS,45,43,0,43,0.955555556,3,some fell over but still in place in mat
+TT1,mat,4/12/2019,18-12-2019,4CBar1,U,H,HDU,45,43,1,44,0.977777778,3,
+TT2,mat,4/12/2019,18-12-2019,4CBar1,S,H,HDS,45,43,1,44,0.977777778,1,"3 fell over, still in place"
+TT2,mat,4/12/2019,18-12-2019,4CBar1,U,H,HDU,45,44,1,45,1,1,
+NBM,mat,4/12/2019,18-12-2019,4CBar1,S,H,HDS,45,28,0,28,0.622222222,13,"buoy rope in tray at check time, knocked loose S oysters"
+NBM,mat,4/12/2019,18-12-2019,4CBar1,U,H,HDU,45,45,0,45,1,13,
+TM,mat,16-01-2020,28-01-2020,4CBar1,S,H,HDS,40,36,1,37,0.925,4,1 loose dead; 2 live fell over
+TM,mat,16-01-2020,28-01-2020,4CBar1,U,H,HDU,40,38,1,39,0.975,4,
+MFT,mat,16-01-2020,28-01-2020,4CBar1,S,H,HDS,40,40,0,40,1,2,1 live fell
+MFT,mat,16-01-2020,28-01-2020,4CBar1,U,H,HDU,40,37,0,37,0.925,2,
+TT,mat,16-01-2020,28-01-2020,4CBar1,S,H,HDS,40,29,3,32,0.8,0,"3 live, 2 dead fell"
+TT,mat,16-01-2020,28-01-2020,4CBar1,U,H,HDU,40,36,4,40,1,0,
+NBM,mat,16-01-2020,28-01-2020,4CBar1,S,H,HDS,40,38,0,38,0.95,3,
+NBM,mat,16-01-2020,28-01-2020,4CBar1,U,H,HDU,40,37,1,38,0.95,3,
+TM,mat,28-01-2020,14-02-2020,4CBar1,S,H,HDS,45,42,1,43,0.955555556,5,2 fell - included in live count
+TM,mat,28-01-2020,14-02-2020,4CBar1,U,H,HDU,45,40,2,42,0.933333333,5,
+MFT,mat,28-01-2020,14-02-2020,4CBar1,S,H,HDS,45,40,4,44,0.977777778,1,5 live fell
+MFT,mat,28-01-2020,14-02-2020,4CBar1,U,H,HDU,45,38,7,45,1,1,"5 live M corona foraging in tray, 1 under wire on U side"
+TT,mat,28-01-2020,14-02-2020,4CBar1,S,H,HDS,45,39,0,39,0.866666667,18,11 live fell
+TT,mat,28-01-2020,14-02-2020,4CBar1,U,H,HDU,45,30,0,30,0.666666667,18,"1 loose dead, smashed by crab"
+NBM,mat,28-01-2020,14-02-2020,4CBar1,S,H,HDS,45,37,3,40,0.888888889,9,5 live fell
+NBM,mat,28-01-2020,14-02-2020,4CBar1,U,H,HDU,45,38,2,40,0.888888889,9,"1 loose dead, smashed by crab"
+TM,mat,14-02-2020,26-02-2020,4CBar1,S,H,HDS,45,19,13,32,0.711111111,15,"3 loose dead; 2 large wild clusters in tray on S side, knocked down oysters; 4 live and active M corona; decent amount of shell hash in tray; closest to HD side with plants"
+TM,mat,14-02-2020,26-02-2020,4CBar1,U,H,HDU,45,31,5,36,0.8,15,"+1 dead a double oyster (even size) - 1 live, 1 dead"
+MFT,mat,14-02-2020,26-02-2020,4CBar1,S,H,HDS,45,34,7,41,0.911111111,14,7 fell
+MFT,mat,14-02-2020,26-02-2020,4CBar1,U,H,HDU,45,31,2,33,0.733333333,14,"2 loose dead; wire not well secured, allowed many oysters out"
+TT,mat,14-02-2020,26-02-2020,4CBar1,S,H,HDS,45,33,10,43,0.955555556,7,10 fell; stone crab in tray
+TT,mat,14-02-2020,26-02-2020,4CBar1,U,H,HDU,45,34,6,40,0.888888889,7,2 loose dead
+NBM,mat,14-02-2020,26-02-2020,4CBar1,S,H,HDS,45,35,8,43,0.955555556,7,6 live fell
+NBM,mat,14-02-2020,26-02-2020,4CBar1,U,H,HDU,45,38,4,42,0.933333333,7,3 loose dead
+TM,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,5,1,6,,1,
+TM,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,6,2,8,,1,LD data simulated in R
+MFT,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,6,1,7,,2,
+MFT,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,5,2,7,,2,
+TT,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,6,1,7,,2,
+TT,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,5,2,7,,2,
+NBM,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,7,1,8,,0,
+NBM,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,6,2,8,,0,
+TM,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,7,1,8,,0,
+TM,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,6,2,8,,0,
+MFT,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,7,1,8,,1,
+MFT,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,5,2,7,,1,
+TT,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,8,0,8,,1,
+TT,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,6,1,7,,1,
+NBM,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,8,0,8,,0,
+NBM,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,7,1,8,,0,
+TM,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,6,0,6,,3,
+TM,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,6,1,7,,3,
+MFT,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,6,0,6,,2,
+MFT,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,7,1,8,,2,
+TT,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,7,0,7,,1,
+TT,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,7,1,8,,1,
+NBM,mat,14-02-2020,26-02-2020,4CBar1,S,L,LDS,8,7,0,7,,2,
+NBM,mat,14-02-2020,26-02-2020,4CBar1,U,L,LDU,8,6,1,7,,2,
